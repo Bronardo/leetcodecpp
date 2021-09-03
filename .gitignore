@@ -3,3 +3,8 @@
 ################################################################################
 
 /Debug
+/.vs
+/leetcodecpp.vcxproj.user
+/leetcodecpp.vcxproj.filters
+/leetcodecpp.vcxproj
+/leetcodecpp.sln
