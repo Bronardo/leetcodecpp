@@ -3,6 +3,7 @@
 
 #include <iostream>
 //#include "TwoSum.h"
+#include "AddTwoNumbers.h"
 using namespace std;
 //using namespace ts;
 
@@ -19,10 +20,16 @@ int main()
 
     /*
     0002 Add Two Numbers
-    
+    include AddTwoNumbers.h
     */
-
-
+    ListNode l1 = ListNode(2,&ListNode(4,&ListNode(3)));
+    ListNode l2 = ListNode(5,&ListNode(6,&ListNode(4)));
+    AddTwoNumbers obj;
+    ListNode* ans = obj.addTwoNumbers(&l1, &l2);
+    while (ans) {
+        cout << ans->val << " ";
+        ans = ans->next;
+    }
     return 0;
 }
 
