@@ -1,9 +1,9 @@
 #include "Mtsa.h"
 using namespace std;
-double fMSA(vector<int>& sSet,int sSize,int p1,
-	vector<int>& lSet,int lSize,int p2) {
-
-}
+//double fMSA(vector<int>& sSet,int sSize,int p1,
+//	vector<int>& lSet,int lSize,int p2) {
+//
+//}
 
 double Mtsa::findMedianSortedArrays(std::vector<int>& nums1, std::vector<int>& nums2)
 {
