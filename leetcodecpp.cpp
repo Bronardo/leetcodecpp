@@ -53,8 +53,22 @@ int main()
     /*ZigZagConversion zig;
     cout << zig.convert("A", 1);*/
 
-
-
+    /*
+    0007 Reverse Integer
+    ReverseInteger.h
+    */
+    /*
+    0008 String to Integer (atoi)
+    StringToInteger.h
+    */
+    /*
+    0009 Palindrome Number
+    PalindromeNumber.h
+    */
+    /*
+    0010 Regular Expression Matching
+    RegularExpressionMatching.h
+    */
     return 0;
 }
 
