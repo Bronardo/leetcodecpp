@@ -1,2 +1,2 @@
 # leetcodecpp
-leetcode cpp
+leetcode cpp 1-10
